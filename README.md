@@ -20,3 +20,8 @@ ACCURACY:- 84.67%
 Dataset:
 The project uses the PlantVillage Dataset publicly available on Kaggle:
 🔗 PlantVillage Dataset – Kaggle
+Output-: <img width="738" height="564" alt="Screenshot 2025-11-03 060519" src="https://github.com/user-attachments/assets/106ac447-1649-4e20-81d1-232df6379660" />
+<img width="721" height="587" alt="Screenshot 2025-11-03 060505" src="https://github.com/user-attachments/assets/ae773883-637c-428a-894b-81b511ea97bb" />
+ 
+
+
