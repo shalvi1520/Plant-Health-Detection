@@ -15,6 +15,8 @@ Features:
 4.Model saving and visualization of training accuracy/loss
 5.Easy deployment on Colab, Jupyter, or local Python setup
 
+ACCURACY:- 84.67%
+
 Dataset:
 The project uses the PlantVillage Dataset publicly available on Kaggle:
 🔗 PlantVillage Dataset – Kaggle
